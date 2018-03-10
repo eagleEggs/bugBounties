@@ -1,5 +1,7 @@
 ```
 Authorized Bug Bounty Disclosure
+Target: Fitbit.com
+Bug Type: Denial of Service
 Disclosure Verification: Fitbit Authorized Disclosure on 03-09-2018
 ```
 ### Summary
