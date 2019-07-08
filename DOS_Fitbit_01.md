@@ -38,5 +38,3 @@ It took a while to find the location, but though some research on the component,
 ### Why
 This is an issue where if utilized maliciously, could potentially cause a denial of service on the Fitbit platforms.
 
-### Links
-<a href="www.twitter.com/_eagleEggs">Twitter</a>
