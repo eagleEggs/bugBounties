@@ -51,5 +51,3 @@ This was found when playing around with the friend modules :notes:
 ### Why
 This is a logic issue that compromises privacy, and could be used to farm and identify all users on Fitbit.
 
-### Links
-<a href="www.twitter.com/_eagleEggs">Twitter</a>
